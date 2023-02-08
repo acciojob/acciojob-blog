@@ -10,7 +10,11 @@ https://images.unsplash.com/photo-1504384308090-c894fdcc538d?crop=entropy&cs=tin
 
 https://images.unsplash.com/photo-1616469829581-73993eb86b02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fGxpbmtlZGlufGVufDB8fHx8MTY3MDQ5MTYxNw&ixlib=rb-4.0.3&q=80&w=2000 
 
-**Note:** All images height should be 200px.
+**Note:** 
+
+- All images height should be 200px.
+
+- Text "Welcome to Acciojobs!" must scroll from right to left
 
 **Blog links:**
 
