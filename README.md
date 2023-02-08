@@ -32,3 +32,5 @@ DSA vs. Competitive Programming
 10 Tips to Optimize Your LinkedIn Profile and Attract Recruiters
 
 - As a job seeker, you may wonder how to make your LinkedIn profile stand out to recruiters. Your LinkedIn…
+
+![blog](https://storage.googleapis.com/acciojob-open-file-collections/acciojob-blog.gif)
